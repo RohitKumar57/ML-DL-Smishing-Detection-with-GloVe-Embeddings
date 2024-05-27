@@ -1,0 +1,3 @@
+The filesize of glove.840B.300d.txt is too large to upload on GitHub.
+You can access it from the below link.
+https://nlp.stanford.edu/data/glove.42B.300d.zip
